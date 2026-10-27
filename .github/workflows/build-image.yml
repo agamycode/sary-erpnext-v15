@@ -19,11 +19,11 @@ jobs:
       - name: Checkout Sary repository
         uses: actions/checkout@v4
 
-      - name: Checkout frappe_docker v15
+      - name: Checkout frappe_docker
         uses: actions/checkout@v4
         with:
           repository: frappe/frappe_docker
-          ref: version-15
+          ref: main
           path: frappe_docker
 
       - name: Prepare private app credentials
