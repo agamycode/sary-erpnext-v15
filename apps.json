@@ -1,0 +1,14 @@
+[
+  {
+    "url": "https://github.com/frappe/erpnext",
+    "branch": "version-15"
+  },
+  {
+    "url": "https://github.com/lavaloon-eg/ksa_compliance",
+    "branch": "master"
+  },
+  {
+    "url": "https://github.com/agamycode/agamy_accounting_custom_app",
+    "branch": "main"
+  }
+]
